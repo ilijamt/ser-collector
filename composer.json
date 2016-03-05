@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"CSR\\": "csr/"}
+  },
+  "require": {
+    "guzzlehttp/guzzle": "~6.0"
+  }
+}
